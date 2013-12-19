@@ -6,8 +6,7 @@
   "type": "library",
   "license": "Apache-2.0",
   "require": {
-    "php": ">=5.3.19",
-    "phpunit/phpunit": "3.7.*"
+    "php": ">=5.3.19"
   },
   "autoload": {
     "classmap": ["lib/"]
